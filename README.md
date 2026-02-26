@@ -41,7 +41,7 @@ The project covers:
 
 ---
 
-## Project Structure (Initial Version)
+## Project Structure
 
 src/ → Core implementations  
 docs/ → Research document and theory  
@@ -52,5 +52,7 @@ notebooks/ → Numerical demonstrations
 ## Author
 
 Rocky Perkings Kouegang Mossi
+
 GitHub: https://github.com/rperkings2320
+
 LinkedIn: https://www.linkedin.com/in/perkings
