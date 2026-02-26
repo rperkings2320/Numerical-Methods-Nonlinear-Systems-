@@ -51,6 +51,6 @@ notebooks/ → Numerical demonstrations
 
 ## Author
 
-Mathurin Nkinassi Dougoua  
+Rocky Perkings Kouégang Mossi
 MSc Mathematical & Computational Finance  
 Université de Montréal
