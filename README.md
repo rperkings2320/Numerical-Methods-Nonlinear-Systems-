@@ -51,6 +51,6 @@ notebooks/ → Numerical demonstrations
 
 ## Author
 
-Rocky Perkings Kouégang Mossi
-MSc Mathematical & Computational Finance  
-Université de Montréal
+Rocky Perkings Kouegang Mossi
+GitHub: https://github.com/rperkings2320
+LinkedIn: https://www.linkedin.com/in/perkings
